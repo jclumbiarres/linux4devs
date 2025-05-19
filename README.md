@@ -10,3 +10,7 @@ El curs està dissenyat per proporcionar una base sòlida en l'ús de Linux com 
 
 Podeu trobar més informació sobre el curs i inscriure-us a través del següent enllaç:  
 [Linux per a persones programadores: Entorn, eines i desenvolupament - Preparació per al Certificat LFCA de Linux Foundation](https://cibernarium.barcelonactiva.cat/ficha-actividad?activityId=1403686)
+
+## Index
+
+- [Index](Index.md)

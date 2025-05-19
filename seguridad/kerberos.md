@@ -1,6 +1,6 @@
 # Introducció a Kerberos en GNU/Linux
 
-Kerberos és un protocol d'autenticació de xarxa dissenyat per proporcionar una comunicació segura entre clients i servidors en una xarxa no segura. En aquest document, explorarem els conceptes bàsics de Kerberos, com funciona, i com es pot implementar en un sistema GNU/Linux. Aquesta explicació està pensada per a persones amb pocs coneixements tècnics, així que anirem pas a pas.
+Kerberos és un protocol d'autenticació de xarxa dissenyat per proporcionar una comunicació segura entre clients i servidors en una xarxa no segura. En aquest document, explorarem els conceptes bàsics de Kerberos, com funciona, i com es pot implementar en un sistema GNU/Linux.
 
 ---
 

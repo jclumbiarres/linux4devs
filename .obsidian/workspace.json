@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "6c649a95a6d07a5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d2f44c3c9ec397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf31916cb6220dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seguridad/Ulimit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ulimit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f2d16f8a3d243b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "576d900a55516810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c04cb3fb1e8f481",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "303700b04644a9ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a550027043fb1b1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a39ed911cc563d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "b354ccab5d93cb5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2130c00334ce14c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "comandos/ls.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de ls"
+            }
+          },
+          {
+            "id": "1c47db93770847dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "comandos/ls.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de ls"
+            }
+          },
+          {
+            "id": "f88a489a299ca913",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "861e2f6038a4c16d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "comandos/ls.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de ls"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "adf31916cb6220dd",
+  "lastOpenFiles": [
+    "seguridad/Permisos.md",
+    "seguridad/AppArmor.md",
+    "seguridad/Xifratge SSH.md",
+    "seguridad/Ulimit.md",
+    "practica/Configuració completa.md",
+    "practica/Bones pràctiques.md",
+    "systemd/Services.md",
+    "systemd/Qué ès SystemD.md",
+    "cronjobs/Estructura.md",
+    "cronjobs/Shortcuts.md",
+    "cronjobs/Simbols especials.md",
+    "scripts/Comptar ocurrències d'un error en logs​.md",
+    "scripts/Netejar fitxers temporals antics​.md",
+    "scripts/Monitoritzar l'ús del disc.md",
+    "scripts/Menú interactiu per gestió de fitxers​.md",
+    "scripts/Canviar extensions de fitxers.md",
+    "scripts/Backup automàtic d'un directori.md",
+    "scripts/Afegir usuaris des d'un fitxer.md",
+    "bash/bucles for y while.md",
+    "bash/condicionals if-else.md",
+    "bash/funcions.md",
+    "bash/variables.md",
+    "Index.md",
+    "editores/Guia Bàsica de NeoVim amb LazyVim.md",
+    "bash/variables entorno.md",
+    "distrobox/Guia Bàsica de Distrobox.md",
+    "otras shells",
+    "practica",
+    "seguridad",
+    "firewall",
+    "distrobox",
+    "editores",
+    "imgs/cron.png",
+    "imgs/cron-struct.png",
+    "imgs",
+    "systemd",
+    "cronjobs",
+    "bash"
+  ]
+}

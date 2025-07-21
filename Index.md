@@ -189,3 +189,21 @@
 - [journalctl](systemd/journalctl.md)
 - [Qué ès SystemD](systemd/Qué%20ès%20SystemD.md)
 - [Services](systemd/Services.md)
+
+## Xarxes
+
+- [Cables](redes/Cables.md)
+- [Capas OSI](redes/Capas.md)
+- [Comandos de red](redes/Comandos.md)
+- [Conectividad](redes/Conectividad.md)
+- [DNS](redes/DNS.md)
+- [Hardware de red](redes/Hardware.md)
+- [HoneyPot](redes/Honeypot.md)
+- [IPv4](redes/IPv4.md)
+- [IPv6](redes/IPv6.md)
+- [Pentesting](redes/Pentesting.md)
+- [Problemas de red](redes/Problemas.md)
+- [Sniffing](redes/Sniffing.md)
+- [Tipos de red](redes/Tipos.md)
+- [Topologia](redes/Topologia.md)
+- [UDP](redes/Udp.md)
